@@ -71,9 +71,9 @@ BLOCKING_ISSUE → redesign + re-review
 
 ## 📂 Project Structure
 
-docs/ 
+docs/
 ├── product/ 
-│   └── PRD.md
+    └── PRD.md
 
 ├── domain/
 │   └── RUBRIC.md
