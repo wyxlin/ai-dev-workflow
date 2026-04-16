@@ -74,13 +74,17 @@ BLOCKING_ISSUE → redesign + re-review
 docs/
 ├── product/
 │   └── PRD.md
+
 ├── domain/
 │   └── RUBRIC.md
+
 ├── architecture/
 │   ├── ARCHITECTURE.md
 │   └── SCHEMA.md
+
 ├── ai/
 │   └── PROMPTS.md
+
 ├── workflow/
 │   ├── AI_WORKFLOW.md
 │   ├── DEV_WORKFLOW.md
