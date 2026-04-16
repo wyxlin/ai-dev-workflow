@@ -69,29 +69,26 @@ BLOCKING_ISSUE → redesign + re-review
 
 ---
 
+
 ## 📂 Project Structure
 
+```text
 docs/
 ├── product/
 │   └── PRD.md
-
 ├── domain/
 │   └── RUBRIC.md
-
 ├── architecture/
 │   ├── ARCHITECTURE.md
 │   └── SCHEMA.md
-
 ├── ai/
 │   └── PROMPTS.md
-
 ├── workflow/
 │   ├── AI_WORKFLOW.md
 │   ├── DEV_WORKFLOW.md
 │   ├── REVIEW_WORKFLOW.md
 │   └── PROTOCOL.md
-
----
+```
 
 ## ⚙️ How It Works
 
